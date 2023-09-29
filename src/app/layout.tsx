@@ -1,6 +1,6 @@
 import Appbar from "./component/appbar";
 import Providers from "./component/Providers";
-import "./globals.css";
+import "./globals.scss";
 import { Inter } from "next/font/google";
 
 const inter = Inter({ subsets: ["latin"] });
